@@ -1,0 +1,336 @@
+{
+  "cocktails": [
+    {
+      "price": "4500",
+      "id": "1a01",
+      "name": "Negroni",
+      "glass": "Old Fashioned",
+      "img": "https://png.pngtree.com/png-vector/20241203/ourmid/pngtree-a-luxurious-glass-of-negroni-with-an-orange-slice-and-ice-png-image_14555583.png",
+      "ice": "Cube",
+      "garnish": "Orange slice",
+      "method": "Stir",
+      "ingredients": 
+        {
+          "Gin": "30ml",
+          "Campari": "30ml",
+          "Sweet Vermouth": "30ml"
+        }
+      
+    },
+    {
+      "price": "3500",
+      "id": "1a02",
+      "name": "Dry Martini",
+      "glass": "Martini",
+      "img": "https://png.pngtree.com/png-vector/20241203/ourmid/pngtree-classic-dry-martini-in-a-transparent-glass-png-image_14556084.png",
+      "ice": "none",
+      "garnish": "Olive",
+      "method": "Stir",
+      "ingredients": 
+        {
+          "Gin": "60ml",
+          "Dry Vermouth": "10ml"
+        }
+      
+    },
+    {
+      "price": "2000",
+      "id": "1a03",
+      "name": "Old Fashioned",
+      "glass": "Old Fashioned",
+      "img": "https://png.pngtree.com/png-vector/20241203/ourmid/pngtree-a-glass-of-old-fashioned-with-oranges-slices-png-image_14555581.png",
+      "ice": "cube",
+      "garnish": "Orange peel",
+      "method": "stir",
+      "ingredients": 
+        {
+          "Bourbon": "50ml",
+          "Sugar cube": "1",
+          "Angostura bitters": "2 dashes"
+        }
+      
+    },
+    {
+      "price": "5000",
+      "id": "1a04",
+      "name": "Daiquiri",
+      "glass": "Coupette",
+      "img": "https://static.vecteezy.com/system/resources/previews/045/379/398/non_2x/daiquiri-cocktail-with-lemon-slice-on-top-transparent-background-png.png",
+      "ice": "none",
+      "garnish": "Lime wheel",
+      "method": "shake",
+      "ingredients": 
+        {
+          "White Rum": "60ml",
+          "Lime juice": "25ml",
+          "Sugar syrup": "15ml"
+        }
+      
+    },
+    {
+      "price": "4000",
+      "id": "1a05",
+      "name": "Whiskey Sour",
+      "glass": "Rocks",
+      "img": "https://png.pngtree.com/png-vector/20241203/ourmid/pngtree-whiskey-sour-cocktail-with-a-cherry-and-lemon-slice-png-image_14555574.png",
+      "ice": "cube",
+      "garnish": "Lemon slice",
+      "method": "shake",
+      "ingredients": 
+        {
+          "Bourbon": "50ml",
+          "Lemon juice": "25ml",
+          "Sugar syrup": "15ml",
+          "Egg white": "optional"
+        }
+      
+    },
+    {
+      "price": "2500",
+      "id": "1a06",
+      "name": "Mojito",
+      "glass": "Highball",
+      "img": "https://static.vecteezy.com/system/resources/previews/051/148/618/non_2x/classic-mojito-isolate-transparency-background-png.png",
+      "ice": "crushed",
+      "garnish": "Mint sprig",
+      "method": "build",
+      "ingredients": 
+        {
+          "White Rum": "50ml",
+          "Lime juice": "25ml",
+          "Sugar syrup": "15ml",
+          "Mint leaves": "8",
+          "Soda water": "to top"
+        }
+      
+    },
+    {
+      "price": "4500",
+      "id": "1a07",
+      "name": "Cosmopolitan",
+      "glass": "Martini",
+      "img": "https://png.pngtree.com/png-clipart/20250101/original/pngtree-cosmopolitan-in-martini-glass-isolated-on-transparent-background-png-image_18541355.png",
+      "ice": "none",
+      "garnish": "Lime wedge",
+      "method": "shake",
+      "ingredients": 
+        {
+          "Vodka": "40ml",
+          "Cointreau": "15ml",
+          "Cranberry juice": "30ml",
+          "Lime juice": "10ml"
+        }
+      
+    },
+    {
+      "price": "3000",
+      "id": "1a08",
+      "name": "Mai Tai",
+      "glass": "Tiki",
+      "img": "https://png.pngtree.com/png-clipart/20250530/original/pngtree-mai-tai-tiki-cocktail-drink-png-image_21093241.png",
+      "ice": "crushed",
+      "garnish": "Mint sprig",
+      "method": "shake",
+      "ingredients": 
+        {
+          "White Rum": "30ml",
+          "Dark Rum": "30ml",
+          "Orange Curaçao": "15ml",
+          "Lime juice": "20ml",
+          "Orgeat syrup": "15ml"
+        }
+      
+    },
+    {
+      "price": "3500",
+      "id": "1a09",
+      "name": "Manhattan",
+      "glass": "Coupette",
+      "img": "https://png.pngtree.com/png-vector/20241203/ourmid/pngtree-manhattan-cocktail-in-a-martini-glass-garnished-with-red-cherry-png-image_14555558.png",
+      "ice": "none",
+      "garnish": "Cherry",
+      "method": "stir",
+      "ingredients": 
+        {
+          "Rye Whiskey": "50ml",
+          "Sweet Vermouth": "20ml",
+          "Angostura bitters": "2 dashes"
+        }
+      
+    },
+    {
+      "price": "4050",
+      "id": "1a10",
+      "name": "Pina Colada",
+      "glass": "Hurricane",
+      "img": "https://png.pngtree.com/png-clipart/20240711/original/pngtree-pina-colada-on-transparent-background-png-image_15536318.png",
+      "ice": "crushed",
+      "garnish": "Pineapple wedge",
+      "method": "blend",
+      "ingredients": 
+        {
+          "White Rum": "50ml",
+          "Coconut cream": "30ml",
+          "Pineapple juice": "90ml"
+        }
+      
+    },
+    {
+      "price": "5500",
+      "id": "1a11",
+      "name": "Caipirinha",
+      "glass": "Old Fashioned",
+      "img": "https://png.pngtree.com/png-vector/20241012/ourmid/pngtree-caipirinha-cocktail-drink-on-white-backdrop-social-media-avatar-template-mockup-png-image_13806916.png",
+      "ice": "crushed",
+      "garnish": "Lime wedge",
+      "method": "muddle",
+      "ingredients": 
+        {
+          "Cachaça": "50ml",
+          "Lime": "4 wedges",
+          "Sugar": "2 tsp"
+        }
+      
+    },
+    {
+      "price": "3000",
+      "id": "1a12",
+      "name": "Bloody Mary",
+      "glass": "Highball",
+      "img": "https://png.pngtree.com/png-vector/20240528/ourmid/pngtree-bloody-mary-with-celery-stick-and-olives-png-image_12511767.png",
+      "ice": "cube",
+      "garnish": "Celery stick",
+      "method": "build",
+      "ingredients": 
+        {
+          "Vodka": "45ml",
+          "Tomato juice": "90ml",
+          "Lemon juice": "15ml",
+          "Tabasco": "2 dashes",
+          "Worcestershire sauce": "2 dashes"
+        }
+      
+    },
+    {
+      "price": "3000",
+      "id": "1a13",
+      "name": "French 75",
+      "glass": "Flute",
+      "img": "https://png.pngtree.com/png-vector/20241230/ourmid/pngtree-french-75-champagne-cocktail-garnished-with-a-lemon-png-image_14982608.png",
+      "ice": "none",
+      "garnish": "Lemon twist",
+      "method": "shake & top",
+      "ingredients": 
+        {
+          "Gin": "30ml",
+          "Lemon juice": "15ml",
+          "Sugar syrup": "15ml",
+          "Champagne": "to top"
+        }
+      
+    },
+    {
+      "price": "4000",
+      "id": "1a14",
+      "name": "Sidecar",
+      "glass": "Coupette",
+      "img": "https://png.pngtree.com/png-vector/20240528/ourmid/pngtree-orange-cocktail-illustration-alcoholic-png-image_12536606.png",
+      "ice": "none",
+      "garnish": "Orange twist",
+      "method": "shake",
+      "ingredients": 
+        {
+          "Cognac": "50ml",
+          "Cointreau": "20ml",
+          "Lemon juice": "20ml"
+        }
+      
+    },
+    {
+      "price": "2500",
+      "id": "1a15",
+      "name": "Tom Collins",
+      "glass": "Highball",
+      "img": "https://png.pngtree.com/png-vector/20250805/ourmid/pngtree-charming-tom-collins-cocktail-photography-with-lemon-slice-and-cherry-garnish-png-image_16961759.webp",
+      "ice": "cube",
+      "garnish": "Lemon wheel",
+      "method": "build",
+      "ingredients": 
+        {
+          "Gin": "50ml",
+          "Lemon juice": "25ml",
+          "Sugar syrup": "15ml",
+          "Soda water": "to top"
+        }
+      
+    },
+    {
+      "price": "4000",
+      "id": "1a16",
+      "name": "Aperol Spritz",
+      "glass": "Wine",
+      "img": "https://png.pngtree.com/png-vector/20240628/ourmid/pngtree-glass-of-aperol-spritz-cocktail-png-image_12915429.png",
+      "ice": "cube",
+      "garnish": "Orange slice",
+      "method": "build",
+      "ingredients": 
+        {
+          "Aperol": "60ml",
+          "Prosecco": "90ml",
+          "Soda water": "30ml"
+        }
+      
+    },
+    {
+      "price": "5000",
+      "id": "1a17",
+      "name": "Paloma",
+      "glass": "Highball",
+      "img": "https://png.pngtree.com/png-vector/20240807/ourmid/pngtree-paloma-cocktail-concepts-png-image_13109639.png",
+      "ice": "cube",
+      "garnish": "Lime wedge",
+      "method": "build",
+      "ingredients": 
+        {
+          "Tequila": "50ml",
+          "Grapefruit soda": "90ml",
+          "Lime juice": "10ml"
+        }
+      
+    },
+    {
+      "price": "5500",
+      "id": "1a18",
+      "name": "Gin Tonic",
+      "glass": "Highball",
+      "img": "https://png.pngtree.com/png-clipart/20250207/original/pngtree-glass-of-gin-and-tonic-isolated-on-transparent-background-png-image_20379669.png",
+      "ice": "cube",
+      "garnish": "Lime wedge",
+      "method": "build",
+      "ingredients": 
+        {
+          "Gin": "50ml",
+          "Tonic water": "100ml"
+        }
+      
+    },
+    {
+      "price": "4500",
+      "id": "1a19",
+      "name": "Espresso Martini",
+      "glass": "Martini",
+      "img": "https://png.pngtree.com/png-vector/20241203/ourmid/pngtree-an-espresso-martini-cocktail-png-image_14555565.png",
+      "ice": "none",
+      "garnish": "Coffee beans",
+      "method": "shake",
+      "ingredients": 
+        {
+          "Vodka": "40ml",
+          "Kahlua": "20ml",
+          "Espresso": "30ml",
+          "Sugar syrup": "10ml"
+        }
+      
+    }
+  ]
+}

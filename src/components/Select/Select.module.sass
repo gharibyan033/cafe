@@ -1,0 +1,30 @@
+.select_wrap
+    color: $color-white
+    font-weight: 300
+    cursor: pointer
+    position: relative
+    .select_btn
+        padding: 0.5em 1em
+        background: #fff1
+        backdrop-filter: blur(5px)
+        height: 3em
+        img
+            height: 100%
+    .options
+        position: absolute
+        top: 100%
+        left: 0
+        width: 100%
+        background: #fff2
+        backdrop-filter: blur(5px)
+        .option
+            top: -100%
+            padding: 0.5em
+            transition: $transition
+            text-align: center
+            height: 3em
+            img
+                height: 100%
+            &:hover
+                background: #fff4
+                transition: $transition

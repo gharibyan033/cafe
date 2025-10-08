@@ -1,0 +1,39 @@
+.hero
+    position: relative
+    height: 100vh
+    background: #000
+    .video
+        position: absolute
+        width: 100%
+        height: 100%
+        object-fit: cover
+        object-position: center
+        opacity: 0.6
+    .wrap
+        position: absolute
+        top: 0
+        left: 50%
+        translate: -50% 0
+        height: 100%
+        width: 100%
+        display: flex
+        justify-content: center
+        align-items: center
+        flex-direction: column
+        gap: 50px
+        .title
+            color: $color-white
+            font-size: $font-8
+            font-weight: 300
+        .btn
+            color: $color-white
+            border: 1px solid $color-main-2
+            background: none
+            border-radius: $radius-1
+            padding: 1em 3em
+            font-size: $font-3
+            transition: $transition
+            &:hover
+                letter-spacing: 1px
+                transition: $transition
+                filter: drop-shadow(0 0 5px $color-main-3)

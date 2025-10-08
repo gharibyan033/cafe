@@ -1,0 +1,38 @@
+.details
+    .wrap
+        display: grid
+        grid-template-columns: repeat(2, 1fr)
+        height: 100%
+        color: #fff
+        .img
+            width: 80%
+            max-width: 500px
+            +flex(center, center)
+            img
+                width: 100%
+        .info
+            align-self: center
+            padding: 30px
+            +flex(center, stretch, column)
+            gap: 20px
+            background: #0005
+            .title
+                font-size: $font-8
+                font-weight: 200
+                letter-spacing: 1px
+                text-align: center
+                padding: 20px 0
+            .desc
+                +flex(center, stretch, column)
+                .item
+                    display: grid
+                    grid-template-columns: repeat(2, 1fr)
+                    gap: 50px
+                    font-size: $font-4
+                    padding: 10px
+                    .key
+                        +flex(end, center)
+                        color: $color-grey-6
+                    .value
+                        +flex()
+            

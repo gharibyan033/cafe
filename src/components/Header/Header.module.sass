@@ -1,0 +1,21 @@
+.bg_dark
+    background: #0008
+    position: sticky !important
+.header
+    position: fixed
+    top: 0
+    left: 0
+    right: 0
+    height: 4em
+    z-index: 99999
+    .wrap
+        +flex(space-between, center)
+        height: 100%
+
+        .logo
+            font-size: $font-8
+            color: $color-main-3
+        .nav
+            +flex
+            gap: 2em
+            color: $color-accent
