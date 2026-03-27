@@ -7,7 +7,7 @@ import { Link } from 'react-router'
 const Hero = () => {
   return (
     <section className={s.hero}>
-      <video className={s.video} loop autoPlay muted src={heroVideo} ></video>
+      <video className={s.video} loop autoPlay muted src={heroVideo}></video>
       <Container>
       <div className={s.wrap}>
           <h1 className={s.title}>Sip. Chill. Repeat.</h1>
